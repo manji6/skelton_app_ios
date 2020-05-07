@@ -8,5 +8,3 @@ This repository is a sample code that adds a basic implementation of the Adobe E
 
 
 Please contact me if you need anything or question.
-
-Twitter: @manji6
